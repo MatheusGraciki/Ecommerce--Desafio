@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/components/buttons/CartBtn.jsx
+src/components/Header.jsx
+src/components/Header.jsx
