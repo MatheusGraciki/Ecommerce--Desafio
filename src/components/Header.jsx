@@ -30,7 +30,8 @@ const Header = () => {
                             
                             
                         </ul>
-                    <NavLink className="navbar-brand mx-auto fw-bold" to="/">Supera Games</NavLink>
+                    <NavLink className="navbar-brand mx-auto fw-bold ms-0" to="/">Supera Games</NavLink>
+                    <br/>
                     <Login/>
                     <Signup/>
                     <CartBtn/>
