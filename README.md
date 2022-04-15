@@ -34,7 +34,8 @@
 
 :heavy_check_mark: Renderização dinamica atráves de Data.jsx<br/>
 :heavy_check_mark: Os valores exibidos no checkout (subtotal e total) são calculados dinamicamente.<br/>
-:heavy_check_mark: Os valores monetários devem são formatados de acordo com a moeda brasileira;
+:heavy_check_mark: Responsividade
+
 
 
 ## Deploy da Aplicação :dash:
