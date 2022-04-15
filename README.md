@@ -39,7 +39,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> https://supera-games.netlify.app/
+> https://games-supera.netlify.app/
 
 ## Pré-requisitos
 
