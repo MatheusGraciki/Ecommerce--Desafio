@@ -12,7 +12,7 @@ const Checkout = () => {
                 <div>
                     <h6 className="my-0">{item.name}</h6>
                 </div>
-                <span className="text-muted">R${item.price}</span>
+                <span className="text-muted">${item.price}</span>
             </li>
         );
     }
@@ -30,8 +30,8 @@ const Checkout = () => {
                             {state.map(itemList)}
 
                             <li className="list-group-item d-flex justify-content-between">
-                                <span>Total (BRL)</span>
-                                <strong>R${total}</strong>
+                                <span>Total (USD)</span>
+                                <strong>${total}</strong>
                             </li>
                         </ul>
 
