@@ -10,7 +10,7 @@
    
 </p>
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Concluido ✔️:
 
 ### Tópicos 
 
@@ -74,10 +74,6 @@ npm start
 - [ React-redux]
 - [ React-router-dom]
 
-## Tarefas em aberto
-
-
-:memo: Opção de linguagem em EN-US e PT-BR
 
 
 
